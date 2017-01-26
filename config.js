@@ -1,5 +1,5 @@
 module.exports = {
 	'port': process.env.PORT || 80,
-	'database': 'mongodb://localhost:27017/bottlecap',
-	'secret': 'thesecretbottlecapiocode'
+	//'database': 'mongodb://localhost:27017/bottlecap',
+	//'secret': 'thesecretbottlecapiocode'
 };
